@@ -1,4 +1,4 @@
-# NetworkingPlusObjectTracking
+# Networking Plus Object Tracking
 A demonstration of Object Tracking and networking between a Pi and a PC
 
 Intention: 
